@@ -26,11 +26,14 @@ Google Chrome (or any modern web browser such as Firefox)
 7)After that, I restarted my browser to apply the changes and checked for improved performance.
 
 
-Extensions Found and Actions Taken
-Extension Name	Reason Identified	Action Taken
+**Extensions Found and Actions Taken**
+
 PDF Converter------------------Pro Unknown developer,unnecessary permissions----------------------Removed
+
 Shopping Helper----------------Caused unwanted ads and pop-ups------------------------------------Removed
+
 Grammarly----------------------Trusted and used regularly-----------------------------------------Kept
+
 AdBlock------------------------Trusted and useful for blocking ads--------------------------------Kept
 
 
@@ -59,6 +62,9 @@ AdBlock------------------------Trusted and useful for blocking ads--------------
 **Conclusion**
 
 From this activity, I learned how to identify legitimate and suspicious browser extensions.
+
 Regularly reviewing and removing unused or unknown extensions helps maintain both security and browser performance.
+
 Permissions and reviews are strong indicators of an extension’s trustworthiness.
+
 A clean browser environment ensures safer browsing and protects personal data from malicious add-ons.
