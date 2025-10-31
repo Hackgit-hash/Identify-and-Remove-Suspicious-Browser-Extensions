@@ -30,9 +30,12 @@ Google Chrome (or any modern web browser such as Firefox)
 
 PDF Converter------------------Pro Unknown developer,unnecessary permissions----------------------Removed
 
+
 Shopping Helper----------------Caused unwanted ads and pop-ups------------------------------------Removed
 
+
 Grammarly----------------------Trusted and used regularly-----------------------------------------Kept
+
 
 AdBlock------------------------Trusted and useful for blocking ads--------------------------------Kept
 
